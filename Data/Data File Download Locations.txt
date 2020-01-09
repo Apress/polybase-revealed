@@ -1,0 +1,28 @@
+All data files are available on Azure Blob Storage in a publically available Blob Storage share.
+
+Sample visits data:  1KB
+https://cspolybasepublic.blob.core.windows.net/polybaserevealedpublicdata/Visits.txt
+
+North Carolina Population:  713KB
+https://cspolybasepublic.blob.core.windows.net/polybaserevealedpublicdata/NorthCarolinaPopulation.csv
+
+North Carolina Population Excel file:  479KB
+https://cspolybasepublic.blob.core.windows.net/polybaserevealedpublicdata/NorthCarolinaPopulation.xlsx
+
+North Carolina Population Typed Excel file:  483KB
+https://cspolybasepublic.blob.core.windows.net/polybaserevealedpublicdata/NorthCarolinaPopulationTyped.xlsx
+
+Raleigh Fire Incidents:  9265KB
+https://cspolybasepublic.blob.core.windows.net/polybaserevealedpublicdata/Fire_Incidents.7z
+
+Raleigh Police Incidents:  14,849KB
+https://cspolybasepublic.blob.core.windows.net/polybaserevealedpublicdata/Raleigh_Police_Incidents_NIBRS.zip
+
+NYC Parking Violations -- 2015:  396,528KB
+https://cspolybasepublic.blob.core.windows.net/polybaserevealedpublicdata/Parking_Violations_Issued_-_Fiscal_Year_2015.7z
+
+NYC Parking Violations -- 2016:  280,614KB
+https://cspolybasepublic.blob.core.windows.net/polybaserevealedpublicdata/Parking_Violations_Issued_-_Fiscal_Year_2015.7zhttps://cspolybasepublic.blob.core.windows.net/polybaserevealedpublicdata/Parking_Violations_Issued_-_Fiscal_Year_2016.7z
+
+NYC Parking Violations -- 2017:  367,642KB
+https://cspolybasepublic.blob.core.windows.net/polybaserevealedpublicdata/Parking_Violations_Issued_-_Fiscal_Year_2017.7z
